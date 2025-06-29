@@ -1,6 +1,0 @@
-flask
-opencv-python
-numpy
-Pillow
-pygetwindow
-pyautogui
